@@ -1,0 +1,19 @@
+body{
+    background: rgb(0, 255, 128);
+}
+
+canvas{
+    background: aliceblue;
+    display: block;
+    width: 100%;
+}
+.block {
+    display: block;
+    width: 100%;
+    border: none;
+    background-color:rgba(255, 0, 0, 0.178);
+    padding: 14px 58px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+  }
